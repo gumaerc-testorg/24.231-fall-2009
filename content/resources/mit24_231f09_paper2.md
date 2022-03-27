@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a2aff13d-481e-8033-4d49-0ae22df09ed1
 resourcetype: Document
 title: "Paper Topics \u2013 Second Short Paper"
 uid: 3f040733-d2a9-5edd-4309-926ef3467347
