@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the writing assignments of the course, information
+  on the presentation assignment, and a the schedule of presentation topics.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -30,7 +32,7 @@ FILES
 Short paper 1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_231f09_paper1))
+({{% resource_link 88139d9a-7f9b-af18-ec67-a2056aaf69d1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -39,7 +41,7 @@ Short paper 1
 Short paper 2
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_231f09_paper2))
+({{% resource_link 3f040733-d2a9-5edd-4309-926ef3467347 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -48,7 +50,7 @@ Short paper 2
 Short paper 3
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_231f09_paper3))
+({{% resource_link b50d4686-658d-4049-f9d4-0c1c2db70b09 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +59,7 @@ Short paper 3
 Final paper
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_231f09_paper4))
+({{% resource_link eb480913-0e8b-6d11-e08d-2307d8318bbd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
