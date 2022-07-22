@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course along
+  with handouts used to supplement class discussion.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 7c93cd30-4d43-0e79-b3a1-7385c34033a6
 ---
@@ -54,7 +59,7 @@ Introduction
 Plato's dialogue and the "Euthyphro Problem"
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_231f09_lec02))
+({{% resource_link 095d54aa-351c-9a2e-1a79-d2e8a1ce0201 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -66,7 +71,7 @@ Plato's dialogue and the "Euthyphro Problem"
 Moore on goodness as simple and indefinable
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_231f09_lec03))
+({{% resource_link 4d3b71ff-cc7a-256a-2dce-e44f97277875 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -84,7 +89,7 @@ Moore on goodness as simple and indefinable
 Ayer on the emotive theory of ethics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_231f09_lec04))
+({{% resource_link f5b666a0-f7be-491b-8e44-180c6d7629fc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +101,7 @@ Ayer on the emotive theory of ethics
 Brink on the form and content of moral judgments
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_231f09_lec05))
+({{% resource_link dc827d04-419c-5663-f22b-44241646b856 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,7 +119,7 @@ Brink on the form and content of moral judgments
 Harman on ethics and observation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_231f09_lec06))
+({{% resource_link 858be707-43c2-963e-3d34-7c390cfa51e5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +131,7 @@ Harman on ethics and observation
 Sturgeon on moral explanations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_231f09_lec07))
+({{% resource_link 756a8a57-9c71-4451-ffa8-951c274960d9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,7 +149,7 @@ Sturgeon on moral explanations
 Harman on moral relativism
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_231f09_lec08))
+({{% resource_link ca629b0d-e161-e241-8257-852e85fa4fc1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -156,7 +161,7 @@ Harman on moral relativism
 Foot on moral relativism
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_231f09_lec09))
+({{% resource_link 9fa238fe-56bb-8440-310d-fe3efdb3bb79 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -168,7 +173,7 @@ Foot on moral relativism
 Lyons on ethical relativism and the problem of incoherence
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_231f09_lec10))
+({{% resource_link 8a7fec60-73ef-8a20-61f1-1cefc63d5af1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -192,7 +197,7 @@ Lyons on ethical relativism and the problem of incoherence
 Mill on utilitarianism
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_231f09_lec11))
+({{% resource_link a13b23f8-6b8a-5f7a-8ff3-cffe8454acf8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -204,7 +209,7 @@ Mill on utilitarianism
 Nozick and Parfit on theories of well-being
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_231f09_lec12))
+({{% resource_link 83e8b05c-dce5-2f79-cd30-cc98f53725c4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -216,7 +221,7 @@ Nozick and Parfit on theories of well-being
 Norcross on comparing harms
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_231f09_lec13))
+({{% resource_link 6dcdb0d5-f044-a3dc-395f-b57acb948430 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -234,7 +239,7 @@ Norcross on comparing harms
 Williams critiquing utilitarianism
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_231f09_lec14))
+({{% resource_link c983c419-e913-5a0c-3dad-911ff2e2410b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -246,7 +251,7 @@ Williams critiquing utilitarianism
 Lenman on consequentialism and cluelessness
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_231f09_lec15))
+({{% resource_link 53a04776-59ae-023e-df3d-e9c60975f622 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -258,7 +263,7 @@ Lenman on consequentialism and cluelessness
 Singer on act-utilitarianism
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_231f09_lec16))
+({{% resource_link 5a1e538b-ccd9-add8-d5ab-ad4c21fc4a1c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -270,7 +275,7 @@ Singer on act-utilitarianism
 Rawls on rules
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_231f09_lec17))
+({{% resource_link facead65-5db8-bdcb-b1ae-9a6c02a40697 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -282,7 +287,7 @@ Rawls on rules
 Nagel on agent-relative reasons
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_231f09_lec18))
+({{% resource_link 2aa5e59a-c0dd-208c-b8d8-d58c872aa228 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -300,7 +305,7 @@ Nagel on agent-relative reasons
 Rawls and Nagel on equality
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_231f09_lec19))
+({{% resource_link 5f78de28-62aa-2e86-3611-92ce93eb64c1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -312,7 +317,7 @@ Rawls and Nagel on equality
 Williams on the idea of equality
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_231f09_lec20))
+({{% resource_link 004a83c5-88f3-0a2b-83cf-b6e39aab966b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -324,7 +329,7 @@ Williams on the idea of equality
 Singer on famine, affluence, and morality
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_231f09_lec21))
+({{% resource_link ae330b8c-126f-18b5-2d96-ec1b1abf7cd9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -348,7 +353,7 @@ Singer on famine, affluence, and morality
 Arpaly on moral worth
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_231f09_lec22))
+({{% resource_link d8ff11b5-d39b-bb03-cf9c-8cc8cdbdfdcd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -360,7 +365,7 @@ Arpaly on moral worth
 Wolf on moral saints
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_231f09_lec23))
+({{% resource_link 942081e4-16c5-7960-9705-e22717f5cdde "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -378,7 +383,7 @@ Wolf on moral saints
 van Inwagen on the incompatibility of free will and determinism
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_231f09_lec24))
+({{% resource_link 5f90e807-e0fe-8eaf-88b3-75f432d1602c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -390,7 +395,7 @@ van Inwagen on the incompatibility of free will and determinism
 Frankfurt on moral responsibility
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_231f09_lec25))
+({{% resource_link 138cf82e-65ac-80aa-e829-664d2b740b44 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -402,7 +407,7 @@ Frankfurt on moral responsibility
 Nagel on moral luck
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_231f09_lec26))
+({{% resource_link f57c264a-f20e-1943-1edb-5b69fdf5fef0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
