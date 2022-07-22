@@ -6,6 +6,7 @@ file: /courses/24-231-ethics-fall-2009/b50d4686658d4049f9d40c1c2db70b09_MIT24_23
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Paper Topics \u2013 Third Short Paper"
 uid: b50d4686-658d-4049-f9d4-0c1c2db70b09
 ---
 Instructions and possible topics for the third writing assignment of the course.
-

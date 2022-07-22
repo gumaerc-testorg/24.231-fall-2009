@@ -6,6 +6,7 @@ file: /courses/24-231-ethics-fall-2009/88139d9a7f9baf18ec67a2056aaf69d1_MIT24_23
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Paper Topics \u2013 First Short Paper"
 uid: 88139d9a-7f9b-af18-ec67-a2056aaf69d1
 ---
 Instructions and possible topics for the first writing assignment of the course.
-
