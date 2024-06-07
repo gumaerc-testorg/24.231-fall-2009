@@ -3,6 +3,7 @@ content_type: resource
 description: Instructions and possible topics for the second writing assignment of
   the course.
 file: /courses/24-231-ethics-fall-2009/3f040733d2a95edd4309926ef3467347_MIT24_231F09_paper2.pdf
+file_size: 97163
 file_type: application/pdf
 learning_resource_types:
 - Assignments

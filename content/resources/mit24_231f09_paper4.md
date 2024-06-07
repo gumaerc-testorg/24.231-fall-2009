@@ -3,6 +3,7 @@ content_type: resource
 description: Instructions and possible topics for the final writing assignment of
   the course.
 file: /courses/24-231-ethics-fall-2009/eb4809130e8b6d11e08d2307d8318bbd_MIT24_231F09_paper4.pdf
+file_size: 99502
 file_type: application/pdf
 learning_resource_types:
 - Assignments
